@@ -1,0 +1,12 @@
+C:\Users\danny\source\repos\SOSCSRPG\Engine\bin\Debug\net5.0\Engine.deps.json
+C:\Users\danny\source\repos\SOSCSRPG\Engine\bin\Debug\net5.0\Engine.dll
+C:\Users\danny\source\repos\SOSCSRPG\Engine\bin\Debug\net5.0\ref\Engine.dll
+C:\Users\danny\source\repos\SOSCSRPG\Engine\bin\Debug\net5.0\Engine.pdb
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.csproj.AssemblyReference.cache
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.AssemblyInfo.cs
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.dll
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\ref\Engine.dll
+C:\Users\danny\source\repos\SOSCSRPG\Engine\obj\Debug\net5.0\Engine.pdb
